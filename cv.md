@@ -6,3 +6,4 @@ at some point I started to learn Java, but I quit, now I'm dealing with JavaScri
 -
 I am studying to be a mechanical engineer
 -
+I don't know English very well
